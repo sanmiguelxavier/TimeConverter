@@ -1,0 +1,14 @@
+C:\Users\MY PC\source\repos\TimeConverter\TimeConverter\bin\Debug\net8.0\TimeConverter.exe
+C:\Users\MY PC\source\repos\TimeConverter\TimeConverter\bin\Debug\net8.0\TimeConverter.deps.json
+C:\Users\MY PC\source\repos\TimeConverter\TimeConverter\bin\Debug\net8.0\TimeConverter.runtimeconfig.json
+C:\Users\MY PC\source\repos\TimeConverter\TimeConverter\bin\Debug\net8.0\TimeConverter.dll
+C:\Users\MY PC\source\repos\TimeConverter\TimeConverter\bin\Debug\net8.0\TimeConverter.pdb
+C:\Users\MY PC\source\repos\TimeConverter\TimeConverter\obj\Debug\net8.0\TimeConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY PC\source\repos\TimeConverter\TimeConverter\obj\Debug\net8.0\TimeConverter.AssemblyInfoInputs.cache
+C:\Users\MY PC\source\repos\TimeConverter\TimeConverter\obj\Debug\net8.0\TimeConverter.AssemblyInfo.cs
+C:\Users\MY PC\source\repos\TimeConverter\TimeConverter\obj\Debug\net8.0\TimeConverter.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\source\repos\TimeConverter\TimeConverter\obj\Debug\net8.0\TimeConverter.dll
+C:\Users\MY PC\source\repos\TimeConverter\TimeConverter\obj\Debug\net8.0\refint\TimeConverter.dll
+C:\Users\MY PC\source\repos\TimeConverter\TimeConverter\obj\Debug\net8.0\TimeConverter.pdb
+C:\Users\MY PC\source\repos\TimeConverter\TimeConverter\obj\Debug\net8.0\TimeConverter.genruntimeconfig.cache
+C:\Users\MY PC\source\repos\TimeConverter\TimeConverter\obj\Debug\net8.0\ref\TimeConverter.dll
